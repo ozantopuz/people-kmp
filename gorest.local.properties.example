@@ -1,0 +1,3 @@
+# Copy to gorest.local.properties at the project root. Never commit that local file.
+# Optional; missing file or empty value produces an empty shared token.
+GOREST_TOKEN=

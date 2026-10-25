@@ -1,0 +1,30 @@
+*.iml
+.kotlin
+.gradle
+**/build/
+xcuserdata
+local.properties
+.idea
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
+**/xcshareddata/WorkspaceSettings.xcsettings
+node_modules/
+
+# Optional local GoRest credential; generated Kotlin stays under ignored build/.
+/gorest.local.properties
+
+# Local signing material and environment secrets.
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+.env
+.env.*
+!.env.example
+hs_err_pid*.log
